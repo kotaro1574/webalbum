@@ -1,7 +1,12 @@
 // Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
+
 @import "navbar";
+
 @import "common";
+
 @import "users/devise";
 @import "users/show";
 @import "users/edit";
+
+@import "posts";
